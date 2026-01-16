@@ -50,7 +50,7 @@ const stepsData: QuizStep[] = [
     type: 'intro',
     title: 'A maioria dos homens não sabe disso e isso está sabotando sua performance na cama',
     image: 'https://paulosalustiano.com.br/wp-content/uploads/2017/05/homem-preocupado-mulher-olhando-sentados-cama-1200x799.png',
-    subtitle: 'Faça esse quizz de 1 minuto e vamos te ajudar agora a resolver isso'
+    subtitle: 'Faça esse quizz de 1 minuto e vamos te ajudar a agora a resolver seus problemas sexuais'
   },
   // 1. Body Type
   {
